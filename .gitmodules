@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/UnifespCodeLab/agendinha-web.git
+[submodule "back"]
+	path = back
+	url = https://github.com/UnifespCodeLab/agendinha-backend-simple
