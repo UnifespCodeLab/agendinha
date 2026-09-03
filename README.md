@@ -3,5 +3,5 @@
 Para clonar o projeto, use os submódulos presentes.
 
 ```bash
-git clone --recursive
+git clone --recursive <url-do-repositorio>
 ```
